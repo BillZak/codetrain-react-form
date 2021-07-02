@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+	background-color: rgb(216, 241, 252);
+}
+
+.general{
+	background-color: azure;
+}
+.head{
+	border: 1px solid silver;
+	
+	border-radius: 20px;
+	border-top: 20px solid rgb(25, 153, 238); 
+	padding: 20px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+h1{
+	font-size: 50px;
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: rgb(192, 190, 190);
+	text-align: center;
+}
+h4{
+	color: red;
+}
+.Email{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.name{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.tel{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.pno{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.payment{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.who{
+	border: 1px solid silver;
+	border-radius: 20px;
+	padding: 30px;
+	margin: 20px;
+	background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.loc{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.school{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.why{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+.how{
+    border: 1px solid silver;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px;
+    background-color: #FFF;
+	box-shadow: 1px 1px 3px grey;
+}
+label{
+	font-size: 18px;
+}
+input{
+	border: none;
+	border-bottom: 1px solid grey;
+	width:40%;
+}
+input:focus{
+	outline: none;
+}
+.who >input{
+    width: 10%;
+    margin: 0;
+    padding: 0;
+}
+.greenbar{
+	float: right;
+	margin-right: 20px;
+}
+button{
+	border: none;
+}
